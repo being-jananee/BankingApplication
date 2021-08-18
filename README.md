@@ -1,2 +1,2 @@
 # BankingApplication
-This is a sample banking Application 
+This is a sample banking Application.
