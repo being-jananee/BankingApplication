@@ -1,8 +1,12 @@
 #Java Banking Application
+
 ##Instructions to run the app
 1. Import in intellij as maven project.
 2. Run BankingAppApplication.java as java app.
-3. Go to http://localhost:8080/swagger-ui.html#/ to use swaqgger api editor tool or use postman collection attached. 
+3. Go to http://localhost:8080/swagger-ui.html#/ to use swaqgger api editor tool or use postman collection attached. (SwirePay.postman_collection)
+
+
+
 ###Description
 Create a Spring Boot Rest backend for a neo banking application. The use cases are:
 
